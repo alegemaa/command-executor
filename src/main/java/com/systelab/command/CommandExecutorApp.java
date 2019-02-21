@@ -26,7 +26,7 @@ public class CommandExecutorApp {
     }
 
     public CommandExecutorApp() {
-        System.out.println("Here I am!!");
+        System.out.println("Folder List!!");
     }
 
     private boolean isWindows() {
